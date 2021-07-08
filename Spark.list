@@ -1,8 +1,7 @@
 # > Spark
 HOST-SUFFIX,hockeyapp.net
 HOST-SUFFIX,firebaseio.com
+HOST-SUFFIX,smartmailcloud.com
 HOST,usage.readdle.com
 HOST,api.amplitude.com
 HOST,app.smartmailcloud.com
-HOST,imap.gmail.com
-HOST,outlook.office365.com
