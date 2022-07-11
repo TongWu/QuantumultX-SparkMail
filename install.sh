@@ -12,7 +12,7 @@
 # You can contact Ascensio System SIA by email at sales@onlyoffice.com
 
 DISK_REQUIREMENTS=40960;
-MEMORY_REQUIREMENTS=5500;
+MEMORY_REQUIREMENTS=2000;
 CORE_REQUIREMENTS=2;
 
 PRODUCT="onlyoffice";
